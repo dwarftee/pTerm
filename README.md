@@ -5,7 +5,7 @@ repeat after me:
 
 C++ IS THE BEST
 
-(just run the file :P)
+(TO RUN: download it, cd into the folder, then run ./pterm)
 
 
 # :P
