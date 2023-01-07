@@ -10,3 +10,9 @@ C++ IS THE BEST
 
 # :P
 its a :P
+
+commands (so far):
+
+wim
+
+clear
