@@ -5,7 +5,15 @@ repeat after me:
 
 C++ IS THE BEST
 
-(TO RUN: download it, cd into the folder, then run ./pterm)
+TO RUN:
+
+download it
+
+cd into the folder 
+
+compile x.cpp, cmd.cpp and pterm.cpp using the g++ command
+
+finally run ./pterm
 
 
 # :P
