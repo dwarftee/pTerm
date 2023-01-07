@@ -1,11 +1,11 @@
-# cpp-of-de-essence
+# pTerm
 c++ is the best
 
 repeat after me:
 
 C++ IS THE BEST
 
-(just run the file with ./main)
+(just run the file :P)
 
 
 # :P
