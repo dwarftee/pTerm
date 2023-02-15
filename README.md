@@ -1,26 +1,16 @@
 # pTerm
-c++ is the best
+a small project to emulate some terminal commands.
+# to install
+first make sure you have make installed and git.
 
-repeat after me:
+then run: `git clone https://github.com/dwarftee/pTerm/`
 
-C++ IS THE BEST
+then, cd into it with `cd pTerm`
 
-TO RUN:
+finally, compile and run it with: `make`
+# commands (so far)
+.vim (opens the vim text editor)
 
-download it
+.clear (clears the screen)
 
-cd into the folder 
-
-compile x.cpp, cmd.cpp and pterm.cpp using the g++ command
-
-finally run ./pterm
-
-
-# :P
-its a :P
-
-commands (so far):
-
-wim
-
-clear
+.neofetch (makes a cool logo appear)
