@@ -7,7 +7,8 @@ then run: `git clone https://github.com/dwarftee/pTerm/`
 
 then, cd into it with `cd pTerm`
 
-finally, compile and run it with: `make`
+finally, compile and run it with: `g++ pterm.cpp -o pterm`
+then run it with: `./pterm`
 # commands (so far)
 .vim (opens the vim text editor)
 
