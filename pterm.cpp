@@ -29,6 +29,15 @@ int main() {
 		} else if (command == "sudo"){
 			bool root = true;
 			std::cout << "root: enabled\n";
+		} else if (command == "ls") {
+			system("ls");
+		} else if (command == "code?") {
+			system("vim pterm.cpp");
+		} else if (command == "reset") {
+			system("g++ pterm.cpp -o pterm");
+			system("./pterm");
+		} else if (command == "break;") {
+			break;
 		}
 	}
 }
