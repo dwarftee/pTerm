@@ -19,7 +19,7 @@ then run it with: `./pterm`
 
 .code? (allows you to edit pterms code to make it your own)
 
-.break; (doesn't work but meant to stop the program)
+.break; (stop the program)
 
 .ls (list all files in the directory
 
