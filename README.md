@@ -16,3 +16,13 @@ then run it with: `./pterm`
 .clear (clears the screen)
 
 .neofetch (makes a cool logo appear)
+
+.code? (allows you to edit pterms code to make it your own)
+
+.break; (doesn't work but meant to stop the program)
+
+.ls (list all files in the directory
+
+.sudo (adds fake sudo [doesn't work at the moment])
+
+.reset (recompiles pterm so you can test your new changes you've made)
