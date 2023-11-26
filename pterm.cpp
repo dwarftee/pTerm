@@ -1,5 +1,7 @@
 #include <iostream>
 int main() {
+	//define variables
+	std::string filename = " ";
 	std::cout << "                    :P TERM\n";
     std::cout << "        made by dwarftee(dwarfŧ) and use is completely free\n";
     std::cout << "\n";
@@ -38,6 +40,11 @@ int main() {
 			system("./pterm");
 		} else if (command == "break;") {
 			break;
+		} else if (command == "emulate") {
+			std::cout << "please enter the filename of your ISO: ";
+			std::cin >> filename;
+			std::string commandString = "qemu-system-x86_64 -boot d -cdrom " + filename + ".iso -m 512";
+    			system(commandString.c_str());
 		}
 	}
 }
