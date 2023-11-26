@@ -26,3 +26,5 @@ then run it with: `./pterm`
 .sudo (adds fake sudo [doesn't work at the moment])
 
 .reset (recompiles pterm so you can test your new changes you've made)
+
+.emulate (emulates .iso files (no need to type in .iso after the filename ALSO PLEASE INSTALL QEMU BEFORE RUNNING COMMAND(only works for x86_64 at the moment)))
